@@ -1,0 +1,17 @@
+{
+    "apps": [
+        {
+            "name": "imdb",
+            "entry": "src/index.jsx",
+            "public": "public",
+            "platforms": [
+                "native",
+                "browser"
+            ],
+            "tauri-assets": "src"
+        }
+    ],
+    "tests": [],
+    "modules": [],
+    "scripts": {}
+}

@@ -1,26 +1,26 @@
 .main {
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .films {
-  display: flex;
-  flex-wrap: wrap;
-  box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
 }
 
 .film {
-  max-width: 25%;
-  padding: 40px;
-  box-sizing: border-box;
+    max-width: 25%;
+    padding: 40px;
+    box-sizing: border-box;
 }
 
 .filmImageBlock {
-  min-height: 300px;
+    min-height: 300px;
 }
 
 .filmImage {
-  max-width: 100%;
+    max-width: 100%;
 }
